@@ -1,0 +1,2 @@
+# typistShow
+myGitRepository
